@@ -430,7 +430,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 ## Contact
 
-Issues and feature requests: [GitHub Issues](https://github.com/yourusername/ebook-extractor/issues)
+Issues and feature requests: [GitHub Issues](https://github.com/shuvrobasu/ebook_convert_extract/issues)
 
 ---
 
