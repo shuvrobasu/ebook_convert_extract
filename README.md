@@ -109,10 +109,10 @@ pip install Pillow
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/shuvrobasu/ebook_conver_extract.git
+git clone https://github.com/shuvrobasu/ebook_convert_extract.git
 
 # Navigate to directory
-cd ebook-extractor
+cd ebook_convert_extract
 
 # Install dependencies
 pip install Pillow
